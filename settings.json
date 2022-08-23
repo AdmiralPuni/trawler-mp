@@ -1,0 +1,104 @@
+{
+    "models": {
+        "hololivev2": {
+            "names": [
+                "Akai haato",
+                "Aki rosenthal",
+                "Amane kanata",
+                "Gawr gura",
+                "Himemori luna",
+                "Hoshimachi suisei",
+                "Houshou marine",
+                "Inugami korone",
+                "Kiryu coco",
+                "Minato aqua",
+                "Momosuzu nene",
+                "Mori calliope",
+                "Murasaki shion",
+                "Nakiri ayame",
+                "Natsuiro matsuri",
+                "Nekomata okayu",
+                "Ninomae ina'nis",
+                "Ookami mio",
+                "Oozora subaru",
+                "Sakura miko",
+                "Shirakami fubuki",
+                "Shiranui flare",
+                "Shirogane noel",
+                "Takanashi kiara",
+                "Tokino sora",
+                "Tokoyami towa",
+                "Tsunomaki watame",
+                "Uruha rushia",
+                "Usada pekora",
+                "Watson amelia",
+                "Yozora mel",
+                "Yukihana lamy",
+                "Yuzuki choco"
+            ],
+            "filename": "hololive_art.hdf5"
+        },
+        "myusu": {
+            "names": [
+                "eli",
+                "hanayo",
+                "honoka",
+                "kotori",
+                "maki",
+                "nico",
+                "nozomi",
+                "rin",
+                "umi"
+            ],
+            "filename": "myusu_anime.hdf5"
+        },
+        "nijigasaki": {
+            "names": [
+                "Asaka karin",
+                "Emma verde",
+                "Konoe kanata",
+                "Miyashita ai",
+                "Nakasu kasumi",
+                "Ousaka shizuku",
+                "Takasaki yuu",
+                "Tennouji rina",
+                "Uehara ayumu",
+                "Yuuki setsuna"
+            ],
+            "filename": "nijigasaki_art.hdf5"
+        },
+        "love-live": {
+            "names": [
+                "Asaka karin",
+                "Ayase eli",
+                "Emma verde",
+                "Hoshizora rin",
+                "Koizumi hanayo",
+                "Konoe kanata",
+                "Kousaka honoka",
+                "Kunikida hanamaru",
+                "Kurosawa dia",
+                "Kurosawa ruby",
+                "Matsuura kanan",
+                "Minami kotori",
+                "Miyashita ai",
+                "Nakasu kasumi",
+                "Nishikino maki",
+                "Ohara mari",
+                "Ousaka shizuku",
+                "Sakurauchi riko",
+                "Sonoda umi",
+                "Takami chika",
+                "Takasaki yuu",
+                "Tennouji rina",
+                "Toujou nozomi",
+                "Tsushima yoshiko",
+                "Uehara ayumu",
+                "Watanabe you",
+                "Yazawa nico",
+                "Yuuki setsuna"
+            ],
+            "filename": "love_live_art.hdf5"
+        }
+    }
+}
